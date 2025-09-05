@@ -2,16 +2,17 @@
 
 <div align="center">
 
-## ✨ About Me  
+About Me  
 
 I'm **Oziel Felipe**, a full stack developer focused on web development.  
 I'm not restricted to a specific technology and I'm constantly looking to learn and create new things.  
 
 </div>
 
-## GitHub Stats
-<div align="center">
 
+<div align="center">
+  ## GitHub Stats
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=oziel-fc&theme=dark&hide_rank=true&show_icons=true" height="180"/>
   </a>
