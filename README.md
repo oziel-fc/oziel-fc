@@ -7,8 +7,18 @@ About Me
 I'm **Oziel Felipe**, a full stack developer focused on web development.  
 I'm not restricted to a specific technology and I'm constantly looking to learn and create new things.  
 
+<div align="center">
+
+  <h2>Tech Skills</h2>
+
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,react,nodejs,mysql,py,cpp,arduino&theme=dark" />
+  </a>
+
 </div>
 
+
+</div>
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
   
