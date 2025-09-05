@@ -1,13 +1,14 @@
 ![Wallpaper](assets/my_wallpaper.png)
 
-<div align="center">
+## GitHub Stats
+<div align="left">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=oziel-fc&theme=dark&hide_rank=true&show_icons=true" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=oziel-fc&theme=dark&hide_rank=true&show_icons=true" height="200"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oziel-fc&layout=donut&theme=dark" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oziel-fc&layout=donut&theme=dark" height="200"/>
   </a>
 
 </div>
