@@ -1,4 +1,4 @@
-<img src="assets/my_wallpaper.png" alt="Wallpaper" width="400"/>
+<img src="assets/my_wallpaper.png" alt="Wallpaper" width="1280" heigh="400"/>
 
 
 <!--
