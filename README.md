@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="assets/my_wallpaper.gif" alt="Wallpaper"/>
 
 <!--
 **oziel-fc/oziel-fc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
