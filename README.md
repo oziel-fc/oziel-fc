@@ -1,4 +1,4 @@
-<video src="assets/my_wallpaper.mp4" autoplay muted></video>
+<img src="assets/my_wallpaper.png" alt="Wallpaper" width="400"/>
 
 
 <!--
