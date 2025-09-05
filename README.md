@@ -1,5 +1,9 @@
 ![Wallpaper](assets/my_wallpaper.png)
 
+## About me
+
+I'm **Oziel Felipe**, a full stack developer focused on web development. I'm not restricted to a specific technology and I'm constantly looking to learn and create new things.
+
 ## GitHub Stats
 <div align="left">
 
