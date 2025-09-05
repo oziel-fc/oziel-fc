@@ -9,9 +9,8 @@ I'm not restricted to a specific technology and I'm constantly looking to learn 
 
 </div>
 
-
+<h2 align="center">GitHub Stats</h2>
 <div align="center">
-  ## GitHub Stats
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=oziel-fc&theme=dark&hide_rank=true&show_icons=true" height="180"/>
