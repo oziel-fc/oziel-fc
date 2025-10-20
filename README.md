@@ -12,7 +12,7 @@ I'm not restricted to a specific technology and I'm constantly looking to learn 
   <h2>Tech Skills</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,react,nodejs,mysql,py,cpp,arduino&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,mysql,py,cpp,arduino&theme=dark" />
   </a>
 
 </div>
