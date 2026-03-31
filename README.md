@@ -12,7 +12,7 @@ I'm not restricted to a specific technology and I'm constantly looking to learn 
   <h2>Tech Skills</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,mysql,py,cpp,arduino&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nodejs,py,cpp,arduino&theme=dark" />
   </a>
 
 </div>
@@ -31,19 +31,3 @@ I'm not restricted to a specific technology and I'm constantly looking to learn 
   </a>
 
 </div>
-
-
-<!--
-**oziel-fc/oziel-fc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
